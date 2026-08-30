@@ -138,7 +138,6 @@ The project includes an interactive Excel Executive Dashboard containing:
 - Segment Slicer
 - Ship Mode Slicer
 
-![Executive Dashboard](images/superstore_dashboard.png)
 
 ---
 
